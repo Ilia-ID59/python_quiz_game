@@ -2,9 +2,14 @@ print("welcome")
 
 score = 0
 
-answer = input("what language are we using ? ") #pyhton
+answer_1 = input("what language are we using ? ") #pyhton
+if answer_1.lower() == "puthon":
+    print("bravo")
+    score += 1
 
-if answer.lower() == "puthon":
+
+answer_2 = input("what command starts a git ? ")
+if answer_2.lower() == "git init":
     print("bravo")
     score += 1
 
