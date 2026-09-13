@@ -1,5 +1,7 @@
 from question import questions
 
+name = input("whats your name ? ")
+
 print("welcome")
 
 score = 0
@@ -14,4 +16,12 @@ for item in questions:
     else:
         print("wrong")    
 
-print("you score is : ", score)        
+print("you score is : ", score, "out of ", len(questions))        
+
+if score == len(questions):
+    print("excellent job", name)
+if score >= 2:
+    print("good job", name)
+else:
+    print("leep praticing", name)    
+    
