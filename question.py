@@ -1,7 +1,7 @@
 questions = [
     {
         "questions" : " what language are we using ? ",
-        "answer" : "puthon"
+        "answer" : "python"
     },
     {
         "questions" : " what command starts a git ? ",
