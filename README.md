@@ -11,6 +11,7 @@ A simple quiz game built python
 - [Envoirment setup](#envoirment-setup)
 - [Usage](#usage)
 - [Example Output](#example-output)
+- [Screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Licence](#licence)
@@ -118,6 +119,17 @@ correct
 you score is :  2 out of  3
 good job al
 ```
+
+## Screenshot
+
+### start game
+![start game](pictures\1.png)
+
+### quiz
+![quiz](pictures\2.png)
+
+### final score
+![final score](pictures\3.png)
 
 ## Roadmap
 
