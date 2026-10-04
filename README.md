@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/python-3.12-blue)
 
 
-A simple quiz game built python
+A simple quiz game built Python
 
 ## Table of contents
 
