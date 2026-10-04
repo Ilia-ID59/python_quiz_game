@@ -20,7 +20,7 @@ questions = [
         "answer" : "git push"
     },
     {
-        "questions" : " what command show git branch ? ",
+        "questions" : " what command show git branch ?  ",
         "answer" : "git branch"
     }
 ]
